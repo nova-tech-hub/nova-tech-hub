@@ -1,28 +1,28 @@
-## 意図あるコードで未来を築く
+## Building the Future with Purposeful Code
 
 <p align="center">  
   <img width='100' src="https://user-images.githubusercontent.com/120065120/212206843-cf86b9c1-9557-4f3e-a49b-f54ba1703e05.png" alt="rain" />  
 </p>  
 <p align="center">  
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=slyvic&theme=dracula" alt="slyvicのトロフィー" />
+    <img src="https://github-profile-trophy.vercel.app/?username=slyvic&theme=dracula" alt="GitHub Trophies" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 自己紹介
+## 👨‍💻 About Me
 
-* 🔭 はじめまして！
-* 👋 私はフルスタックのモバイル＆Web開発で8年以上の経験を持つソフトウェアエンジニアです。
-* 複雑な技術的課題に取り組むことが好きで、革新的かつ効率的なソリューションを提供しています。
-* フロントエンドでもバックエンドでも、期待以上の成果を出すことを目指しています。
-* スタートアップから大企業まで、様々な規模のプロジェクトに携わってきました。
-* 一緒に最高のプロダクトを作りましょう！💻✨
+* 🔭 Hello and welcome!
+* 👋 I'm a software engineer with over 8 years of experience in full-stack mobile and web development.
+* I love tackling complex technical challenges and delivering innovative, efficient solutions.
+* Whether it's frontend or backend, I aim to exceed expectations and deliver high-quality results.
+* I've worked on projects of all sizes—from startups to large enterprises.
+* Let’s build something amazing together! 💻✨
 
 ---
 
-## 💻 使用技術（言語・フレームワーク・ツール）
+## 💻 Tech Stack (Languages, Frameworks & Tools)
 
 <p float="left">
   <img style="padding:5px;" alt="React Native" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png">
@@ -55,12 +55,12 @@
 
 ---
 
-## 📈 GitHub ステータス
+## 📈 GitHub Stats
 
-<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=slyvic&sshow_icons=true&theme=radical&count_private=true">
+<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=slyvic&show_icons=true&theme=radical&count_private=true">
 
 <img align="right" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slyvic&exclude_repo=venture1981.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg" alt="GitHub活動履歴アニメーション">
+  <img src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg" alt="GitHub Contribution Animation">
 </p>
