@@ -14,7 +14,7 @@
 ## 👨‍💻 About Me
 
 * 🔭 Hello and welcome!
-* 👋 I'm a software engineer with over 8 years of experience in full-stack mobile and web development.
+* 👋 I'm a software engineer with over 7 years of experience in full-stack mobile and web development.
 * I love tackling complex technical challenges and delivering innovative, efficient solutions.
 * Whether it's frontend or backend, I aim to exceed expectations and deliver high-quality results.
 * I've worked on projects of all sizes—from startups to large enterprises.
