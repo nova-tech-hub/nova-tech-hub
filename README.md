@@ -5,7 +5,7 @@
 </p>  
 <p align="center">  
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=slyvic&theme=dracula" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=nova-tech-hub&theme=dracula" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -57,9 +57,9 @@
 
 ## 📈 GitHub Stats
 
-<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=slyvic&show_icons=true&theme=radical&count_private=true">
+<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=nova-tech-hub&show_icons=true&theme=radical&count_private=true">
 
-<img align="right" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slyvic&exclude_repo=venture1981.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
+<img align="right" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nova-tech-hub&exclude_repo=venture1981.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg" alt="GitHub Contribution Animation">
