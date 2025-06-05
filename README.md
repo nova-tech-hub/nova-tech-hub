@@ -11,7 +11,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👩‍💻 About Me
 
 * 🔭 Hello and welcome!
 * 👋 I'm a software engineer with over 7 years of experience in full-stack mobile and web development.
