@@ -14,11 +14,8 @@
 ## 👩‍💻 About Me
 
 * 🔭 Hello and welcome!
-* 👋 I'm a software engineer with over 7 years of experience in full-stack mobile and web development.
-* I love tackling complex technical challenges and delivering innovative, efficient solutions.
-* Whether it's frontend or backend, I aim to exceed expectations and deliver high-quality results.
-* I've worked on projects of all sizes—from startups to large enterprises.
-* Let’s build something amazing together! 💻✨
+* NovaTech Hub is a team of passionate developers specializing in full-stack web development, mobile applications, and indie-style game development.
+* We craft user-first digital experiences tailored to your goals, whether you're a startup, creative studio, or growing enterprise.
 
 ---
 
